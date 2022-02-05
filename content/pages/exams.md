@@ -4,10 +4,39 @@ title: Exams
 uid: a1ad574c-b046-7665-942f-58472e8ae01f
 ---
 
-| QUIZZES | PRACTICE PROBLEMS (WITH SOLUTIONS) |
-| --- | --- |
-| [Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_04as13_quiz1) | [Practice Problems 1 (PDF)]({{< baseurl >}}/resources/mit2_04as13_practproblem1) |
-| Quiz 2 (Not available) | [Practice Problems 2 (PDF)]({{< baseurl >}}/resources/mit2_04as13_practproblem2) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+QUIZZES
+{{< thclose >}}
+{{< thopen >}}
+PRACTICE PROBLEMS (WITH SOLUTIONS)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_04as13_quiz1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Practice Problems 1 (PDF)]({{< baseurl >}}/resources/mit2_04as13_practproblem1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2 (Not available)
+{{< tdclose >}}
+{{< tdopen >}}
+[Practice Problems 2 (PDF)]({{< baseurl >}}/resources/mit2_04as13_practproblem2)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
  Quiz Grading
 -------------

@@ -8,25 +8,286 @@ The course sessions include both lectures and combined lectures/labs. The slides
 
 There are [additional materials](#Additional_Materials) and [grading information](#Grading) below the table.
 
-| SES # | TOPICS | SLIDES AND HANDOUTS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction to the class {{< br >}}{{< br >}} From the physical model to the ordinary differential equation (ODE) {{< br >}}{{< br >}}  | [Lecture 1 Slides (PDF - 2.3MB)]({{< baseurl >}}/resources/mit2_04as13_lecture1) |
-| 2 | 1st and 2nd order system behavior (from the ODE) | [Lecture 2 Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_04as13_lecture2) |
-| 3 | Translation and rotational mechanical system (in the flywheel) |  {{< br >}}{{< br >}} [Lecture 3 (+ Lab) Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_04as13_lecture3) {{< br >}}{{< br >}} [Description of the Experimental Rotational Plant (PDF)]({{< baseurl >}}/resources/mit2_04as13_labreading) {{< br >}}{{< br >}}  |
-| 4 | Laplace transform, solving ODEs | [Lecture 4 Slides (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture4) |
-| 5 |  {{< br >}}{{< br >}} Transfer functions, poles, zeros {{< br >}}{{< br >}} Observation of behavior based on transfer functions in the flywheel {{< br >}}{{< br >}}  | [Lecture 5 (+ Lab) Slides (PDF - 1.0MB)]({{< baseurl >}}/resources/mit2_04as13_lecture5) |
-| 6 |  {{< br >}}{{< br >}} Electrical elements R, L, C, op-amp {{< br >}}{{< br >}} The DC motor and its dynamics {{< br >}}{{< br >}}  |  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Lecture 6 (+ Lab) Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_04as13_lecture6) |
-| 7 | 1st and 2nd order system characteristics: theory | [Lecture 7 Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_04as13_lecture7) |
-| 8 | 1st and 2nd order systems: observation on the flywheel | [Lecture 8 (+ Lab) Slides (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture8) |
-| 9 |  {{< br >}}{{< br >}} Feedback TF, MATLAB© LTI, and SISO tools {{< br >}}{{< br >}} Root locus (concept and observation) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lecture 9 (+ Lab) Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit2_04as13_lecture9) {{< br >}}{{< br >}}  |
-| 10 | Drawing root locus (part I: theory) |  {{< br >}}{{< br >}} [Lecture 10 Slides (PDF - 1.9MB)]({{< baseurl >}}/resources/mit2_04as13_lecture10) {{< br >}}{{< br >}} [Supplement to Lecture 10 (PDF)]({{< baseurl >}}/resources/mit2_04as13_supplecture10) {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Drawing root locus (part II: MATLAB and flywheel) {{< br >}}{{< br >}} Introduction to the class project, team arrangements {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lecture 11 (+ Lab) Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit2_04as13_lecture11) {{< br >}}{{< br >}} [Description of the Class Project (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_04as13_classproject) {{< br >}}{{< br >}}  |
-| 12 | P control-flywheel modeling | [Lecture 12 Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_04as13_lecture12) |
-| 13 | P control on the flywheel-effect of gain | [Lecture 13 (+ Lab) Slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit2_04as13_lecture13) |
-| 14 | PI control on the flywheel-steady state error | [Lecture 14 (+ Lab) Slides (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture14) |
-| 15 | Practice on root locus and P-control | No Slides (blackboard only) |
-| 16 & 17 | PID control: speeding up and stabilization | [Lecture 16 & 17 (+ Lab) Slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit2_04as13_lecture16-17) |
-| 18 & 19 | Control of an Inverted pendulum |  {{< br >}}{{< br >}} No Slides {{< br >}}{{< br >}} [Supplement to Lectures 18 & 19 (+ Lab) (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture18) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES AND HANDOUTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to the class
+
+From the physical model to the ordinary differential equation (ODE)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 1 Slides (PDF - 2.3MB)]({{< baseurl >}}/resources/mit2_04as13_lecture1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1st and 2nd order system behavior (from the ODE)
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 2 Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_04as13_lecture2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Translation and rotational mechanical system (in the flywheel)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 3 (+ Lab) Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_04as13_lecture3)
+
+[Description of the Experimental Rotational Plant (PDF)]({{< baseurl >}}/resources/mit2_04as13_labreading)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Laplace transform, solving ODEs
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 4 Slides (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Transfer functions, poles, zeros
+
+Observation of behavior based on transfer functions in the flywheel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 5 (+ Lab) Slides (PDF - 1.0MB)]({{< baseurl >}}/resources/mit2_04as13_lecture5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Electrical elements R, L, C, op-amp
+
+The DC motor and its dynamics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Lecture 6 (+ Lab) Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_04as13_lecture6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+1st and 2nd order system characteristics: theory
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 7 Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_04as13_lecture7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+1st and 2nd order systems: observation on the flywheel
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 8 (+ Lab) Slides (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Feedback TF, MATLAB© LTI, and SISO tools
+
+Root locus (concept and observation)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 9 (+ Lab) Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit2_04as13_lecture9)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Drawing root locus (part I: theory)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 10 Slides (PDF - 1.9MB)]({{< baseurl >}}/resources/mit2_04as13_lecture10)
+
+[Supplement to Lecture 10 (PDF)]({{< baseurl >}}/resources/mit2_04as13_supplecture10)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Drawing root locus (part II: MATLAB and flywheel)
+
+Introduction to the class project, team arrangements
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 11 (+ Lab) Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit2_04as13_lecture11)
+
+[Description of the Class Project (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_04as13_classproject)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+P control-flywheel modeling
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 12 Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_04as13_lecture12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+P control on the flywheel-effect of gain
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 13 (+ Lab) Slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit2_04as13_lecture13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+PI control on the flywheel-steady state error
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 14 (+ Lab) Slides (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Practice on root locus and P-control
+{{< tdclose >}}
+{{< tdopen >}}
+No Slides (blackboard only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16 & 17
+{{< tdclose >}}
+{{< tdopen >}}
+PID control: speeding up and stabilization
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 16 & 17 (+ Lab) Slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit2_04as13_lecture16-17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18 & 19
+{{< tdclose >}}
+{{< tdopen >}}
+Control of an Inverted pendulum
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No Slides
+
+[Supplement to Lectures 18 & 19 (+ Lab) (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture18)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Additional_Materials" >}}{{< /anchor >}}Additional Materials
 ------------------------------------------------------------------------
