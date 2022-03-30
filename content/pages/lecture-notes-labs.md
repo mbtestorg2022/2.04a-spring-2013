@@ -116,7 +116,7 @@ The DC motor and its dynamics
 
 {{< tdclose >}}
 {{< tdopen >}}
- ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Lecture 6 (+ Lab) Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_04as13_lecture6)
+  [Lecture 6 (+ Lab) Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_04as13_lecture6)
 {{< tdclose >}}
 
 {{< trclose >}}
